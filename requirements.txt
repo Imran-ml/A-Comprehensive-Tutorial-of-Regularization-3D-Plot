@@ -1,0 +1,7 @@
+scikit-learn
+numpy
+matplotlib
+pandas
+seaborn
+ipywidgets
+mpl-tools
